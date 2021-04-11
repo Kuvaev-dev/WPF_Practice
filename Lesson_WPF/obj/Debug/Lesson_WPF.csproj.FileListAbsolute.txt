@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\bin\Debug\Lesson_WPF.exe.config
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\bin\Debug\Lesson_WPF.exe
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\bin\Debug\Lesson_WPF.pdb
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF_MarkupCompile.cache
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF_MarkupCompile.lref
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.g.resources
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.Properties.Resources.resources
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.exe
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\Lesson_WPF.pdb
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\student\Desktop\Lesson_WPF\Lesson_WPF\obj\Debug\View\MainWindow.baml
